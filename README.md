@@ -27,4 +27,5 @@ String handling demo: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/
 
 Performance test: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/Performancetest.png
 
+String handling demo 3a: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/stringhandlingdemo.png 
 
