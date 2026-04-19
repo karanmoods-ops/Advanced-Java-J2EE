@@ -43,4 +43,5 @@ jlistCapital: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/jli
 
 colortabbedpane: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/colortabbedpane.png
 
-Tabbedpane example: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/TabbedPaneExample.java
+Tabbedpane example: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/tabbedpaneexample.png
+ 
