@@ -29,3 +29,5 @@ Performance test: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main
 
 String handling demo 3a: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/stringhandlingdemo.png 
 
+String building functions: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/Stringbuildingfunctions.png
+
