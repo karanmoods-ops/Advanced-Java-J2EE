@@ -23,4 +23,8 @@ p9: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/p9.png.png
 
 p10: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/p10.png.png
 
+String handling demo: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/stringhandlingdemo.png
+
+Performance test: https://github.com/karanmoods-ops/Advanced-Java-J2EE/blob/main/Performancetest.png
+
 
